@@ -19,8 +19,8 @@ Korgg is a search engine for your notes. It allows you to search through your no
 - [Tailwind CSS](https://tailwindcss.com/) - For styling
 
 ## preview
-![alt text](korgg.PNG)
-
+![Image](Korgg.PNG)
+![alt text](Korgg.PNG)
 ## Contributing
 
 Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request on the GitHub repository.
