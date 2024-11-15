@@ -1,4 +1,3 @@
-
 #Korgg
 
 ## Description
@@ -19,6 +18,9 @@ Korgg is a search engine for your notes. It allows you to search through your no
 - [React](https://reactjs.org/) - The web framework used
 - [Tailwind CSS](https://tailwindcss.com/) - For styling
 
+## preview
+![image](Korgg.PNG)
+
 ## Contributing
 
 Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request on the GitHub repository.
@@ -26,3 +28,7 @@ Contributions are welcome! If you find any issues or have suggestions for improv
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.                                             
+
+
+
+
