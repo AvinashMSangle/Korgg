@@ -1,4 +1,7 @@
 import React from "react";
+fetch("https://wakati.avinashms-3119.workers.dev/")
+  .then((res) => res.json())
+  .then((data) => console.log(data));
 
 function Accordion({
   title = "Title",
