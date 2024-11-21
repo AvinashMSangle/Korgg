@@ -18,6 +18,9 @@ Korgg is a search engine for your notes. It allows you to search through your no
 - [React](https://reactjs.org/) - The web framework used
 - [Tailwind CSS](https://tailwindcss.com/) - For styling
 
+## APIs Used
+- [Wakati](https://wakati.avinashms-3119.workers.dev/) - For word count                
+
 ## preview
 ![Image](Korgg.PNG)
 
@@ -28,7 +31,3 @@ Contributions are welcome! If you find any issues or have suggestions for improv
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.                                             
-
-
-
-
